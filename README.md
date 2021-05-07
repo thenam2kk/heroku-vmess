@@ -4,11 +4,11 @@
 
 Used to deploy V2Ray Websocket on Heroku.
 
-**Heroku provides us with a free container service, we should not abuse it, so this project should not be used as a long-term use. **
+**Heroku provides us with a free container service, we should not abuse it, so this project should not be used as a long-term use.**
 
-**You can deploy more than two applications to achieve [Load Balancing](https://toutyrater.github.io/routing/balance2.html) to avoid a long-term high-traffic connection to an application and be judged as abuse by Heroku. **
+**You can deploy more than two applications to achieve [Load Balancing](https://toutyrater.github.io/routing/balance2.html) to avoid a long-term high-traffic connection to an application and be judged as abuse by Heroku.**
 
-**Heroku's network is not stable, please think twice before deploying. **
+**Heroku's network is not stable, please think twice before deploying.**
 
 ## Mirror
 
@@ -30,4 +30,4 @@ The WebSocket path is `/`.
 
 V2Ray will automatically install the latest version during deployment.
 
-**For security reasons, unless you use CDN, please do not use a custom domain name, but use the second-level domain name assigned by Heroku to achieve V2Ray Websocket + TLS. **
+**For security reasons, unless you use CDN, please do not use a custom domain name, but use the second-level domain name assigned by Heroku to achieve V2Ray Websocket + TLS.**
