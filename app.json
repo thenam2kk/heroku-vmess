@@ -9,6 +9,6 @@
         }
     },
     "website": "https://t.me/Joash_Singh",
-    "repository": "https://github.com/dopekid30/v2ray-heroku",
+    "repository": "https://github.com/dopekid30/v2ray-heroku-vmess",
     "stack": "container"
 }
